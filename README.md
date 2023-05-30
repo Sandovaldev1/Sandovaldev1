@@ -19,7 +19,7 @@
             alt="facebook badge">
     </a>
 </div>
-
+<br>
 👨‍💻 About Me :
 📝 I work as a full stack web developer
 
