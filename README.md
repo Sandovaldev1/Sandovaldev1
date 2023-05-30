@@ -20,13 +20,13 @@
     </a>
 </div>
 <hr>
-<br>
 👨‍💻 About Me :
+
 📝 I work as a full stack web developer
 
-📫 How to reach me carlos.develops@gmail.com
+📫 How to reach me: sandovaldev21@gmail.com
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning: C#, PHP, Python.
 
 <div align="left">
     <h3>Languages and tools:</h3>
