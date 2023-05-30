@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="">
     <h1 align="center">Hi👋 I'm Sandovaldev1</h1>
-    <h3 align="center">Junior FullStack Web Developer👾 | unior Full-Stack developer specialized in React.JS, JavaScript, C#, .Net/Node
+    <h3 align="center">Junior FullStack Web Developer👾 | Specialized in React.JS, JavaScript, C#, .Net/Node
 and other technologies of Microsoft, with 2 years of experience in the design
 and development of websites, as well as solutions.💚</h3>
 </div>
