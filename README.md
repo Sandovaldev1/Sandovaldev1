@@ -52,3 +52,4 @@ Here are some ideas to get you started:
             alt="Github" title="Github" width="40" height="40">
     </div>&nbsp;
 </div>
+</div>
