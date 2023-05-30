@@ -20,6 +20,13 @@
     </a>
 </div>
 
+👨‍💻 About Me :
+📝 I work as a full stack web developer
+
+📫 How to reach me carlos.develops@gmail.com
+
+🌱 I’m currently learning React.js
+
 <div align="left">
     <h3>Languages and tools:</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
