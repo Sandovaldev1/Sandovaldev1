@@ -27,7 +27,7 @@ and development of websites, as well as solutions.💚</h3>
 
 📫 How to reach me: sandovaldev21@gmail.com
 
-🌱 I’m currently learning: C#, PHP, Python.
+🌱 I’m currently learning: C#, PHP, Vue.js.
 <br>
 <hr>
 <div align="left">
